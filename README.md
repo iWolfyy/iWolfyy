@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Pavithra Wijesooriya</a>!</h1>
+  <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Pavithra Wijesooriya</a> !</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39F758&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergrad;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
