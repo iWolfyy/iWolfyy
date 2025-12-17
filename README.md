@@ -14,11 +14,11 @@
 I am a **Software Engineering Undergraduate** passionate about building scalable solutions and solving complex problems. I am currently focused on honing my skills in web development and algorithmic problem-solving.
 
 - 🎓 I’m currently studying **Software Engineering** at **[Sri Lanka Institute of Information Technology]**.
-- 🔭 I’m currently working on **[Project Name/Topic]**.
+- 🔭 I’m currently working on **[HighRise Bot]**.
 - 🌱 I’m currently learning **Cloud Architecture & System Design**.
 - 💼 I'm looking for **Software Engineering Internship opportunities**.
 - 💬 Ask me about **JavaScript, Python, or Data Structures**.
-- 📫 How to reach me: **[wadptw@example.com]**
+- 📫 How to reach me: **[wadptw@gmail.com]**
 
 ---
 
@@ -55,7 +55,7 @@ I am a **Software Engineering Undergraduate** passionate about building scalable
 ---
 <br/><br/>
 
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/iWolfyy/iWolfyy/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 
 <br/><br/>
 ---
