@@ -3,7 +3,7 @@
   <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Pavithra Wijesooriya</a>! <img src="https://media.giphy.com/media/hvRJCLFzcuMiSIVu18/giphy.gif" width="35"></h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39F758&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39F758&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergrad;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -53,12 +53,7 @@ I am a **Software Engineering Undergraduate** passionate about building scalable
 </div>
 
 ---
-<br/><br/>
 
-  <img src="https://raw.githubusercontent.com/iWolfyy/iWolfyy/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-
-<br/><br/>
----
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
