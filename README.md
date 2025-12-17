@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Your Name</a>! <img src="https://media.giphy.com/media/hvRJCLFzcuMiSIVu18/giphy.gif" width="35"></h1>
+  <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Pavithra Wijesooriya</a>! <img src="https://media.giphy.com/media/hvRJCLFzcuMiSIVu18/giphy.gif" width="35"></h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39F758&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
@@ -13,12 +13,12 @@
 
 I am a **Software Engineering Undergraduate** passionate about building scalable solutions and solving complex problems. I am currently focused on honing my skills in web development and algorithmic problem-solving.
 
-- 🎓 I’m currently studying **Computer Science / Software Engineering** at **[University Name]**.
+- 🎓 I’m currently studying **Software Engineering** at **[Sri Lanka Institute of Information Technology]**.
 - 🔭 I’m currently working on **[Project Name/Topic]**.
 - 🌱 I’m currently learning **Cloud Architecture & System Design**.
 - 💼 I'm looking for **Software Engineering Internship opportunities**.
 - 💬 Ask me about **JavaScript, Python, or Data Structures**.
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[wadptw@example.com]**
 
 ---
 
@@ -53,7 +53,12 @@ I am a **Software Engineering Undergraduate** passionate about building scalable
 </div>
 
 ---
+<br/><br/>
 
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+
+<br/><br/>
+---
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
