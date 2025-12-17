@@ -55,22 +55,6 @@ I am a **Software Engineering Undergraduate** passionate about building scalable
 ---
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=iWolfyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWolfyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iWolfyy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
   <h3>🤝 Let's Connect</h3>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
