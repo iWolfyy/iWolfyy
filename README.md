@@ -14,7 +14,7 @@
 I am a **Software Engineering Undergraduate** passionate about building scalable solutions and solving complex problems. I am currently focused on honing my skills in web development and algorithmic problem-solving.
 
 - 🎓 I’m currently studying **Software Engineering** at **Sri Lanka Institute of Information Technology**.
-- 🔭 I’m currently working on <a href="https://github.com/iWolfyy/RAG-AI-Agent>**RAG AI AGENT</a>**.
+- 🔭 I’m currently working on **RAG AI AGENT**.
 - 🌱 I’m currently learning **Cloud Architecture, System Design, AI, and ML**.
 - 💼 I'm looking for **Software Engineering Internship opportunities**.
 - 💬 Ask me about **JavaScript, Python, or Data Structures**.
