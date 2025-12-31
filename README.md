@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Pavithra Wijesooriya</a> !</h1>
+  <h1>Hi there, I'm <a href="https://github.com/iWolfyy">Pavithra Wijesooriya</a> !</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39F758&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergrad;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 I am a **Software Engineering Undergraduate** passionate about building scalable solutions and solving complex problems. I am currently focused on honing my skills in web development and algorithmic problem-solving.
 
 - 🎓 I’m currently studying **Software Engineering** at **Sri Lanka Institute of Information Technology**.
-- 🔭 I’m currently working on **HighRise Bot**.
+- 🔭 I’m currently working on **<a href="https://github.com/iWolfyy/RAG-AI-Agent>"RAG AI AGENT</a>**.
 - 🌱 I’m currently learning **Cloud Architecture, System Design, AI, and ML**.
 - 💼 I'm looking for **Software Engineering Internship opportunities**.
 - 💬 Ask me about **JavaScript, Python, or Data Structures**.
